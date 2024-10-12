@@ -8,11 +8,6 @@ STM32 CUBE IDE, Proteus 8 simulator .
 
 ## Keypad layout
 
-![Uploading Screenshot 2024-09-25 113602.png…]()
-
-
-## CIRCUIT DIAGRAM 
-
 ![Screenshot 2024-09-25 113602](https://github.com/user-attachments/assets/5e414868-3e29-4a34-815a-610fd73b8b4d)
 
  
